@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between ;
+    width: 100%;
+    padding: 40px 60px;
+}
+
+#nav-part1{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+#nav-part2{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+}
+
+#nav h3{
+    font-size: 23px;
+    font-weight: 400;
+}
+
+#nav h2{
+    font-size: 23px;
+    font-weight: 4;
+}
+
+#nav h4{
+    font-size: 23px;
+    font-weight: 400;
+}
+
+#content{
+    margin-top: 70px;
+    padding: 40px 65px;
+}
+
+#content h3{
+    font-size: 35px;
+    font-weight: 400;
+}
+
+#content h1{
+    margin-top: 40px;
+    font-size: 130px;
+    line-height: 130px;
+    font-weight: 50px;
+    letter-spacing: -9px;
+    word-spacing: 12px;
+}
+
+#case{
+    padding: 40px 65px;
+    margin-top: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#case h4{
+    font-size: 26px;
+    font-weight: 450;
+}
+
+#case h5{
+    font-size: 26px;
+    font-weight: 450;
+}
+
+#right{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+#line{
+    height: 2px;
+    width: 130px;
+    background-color: black;
+}
+
+#projects{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 65px;
+    gap: 80px;
+}
+
+.elm{
+    width: 50%;
+}
+.img-elm{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(199, 228, 227);
+    border-radius: 30px;
+    background-size: cover;
+    background-position: center;
+}
+
+#img1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEqvZdLLPxz7ivwywNJ2UdZdXIIGMhXLPLDxsSnMa9ytlK1BkkKHO4CClxgEptvKW_Go&usqp=CAU);
+}
+
+#img2{
+    background-image: url(https://cdn.dribbble.com/users/2778493/screenshots/14196709/media/1aa3dcf38a8b00efbc482648aad3df9d.png?resize=768x576&vertical=center);
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0px;
+}
+
+.bottom i{
+    padding: 15px 30px;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 50px;
+    font-weight: 800;
+}
+
+.bottom i:hover{
+    background-color: black;
+    color: white;
+}
+
+.bottom h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.bottom h4{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(134, 128, 128);
+}
