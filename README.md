@@ -12,3 +12,18 @@ This project is a digital portfolio for Bent Lindberg, a Berlin-based digital de
 Design Style: Clean, modern aesthetics with large typography and engaging visuals.
 Layout: Fully responsive, ensuring optimal user experience on different devices.
 User Interface: A minimalistic, intuitive interface that showcases Bent's work effectively, allowing users to easily explore his capabilities. Social media icons provide quick connections to his online presence.
+
+#Project_3: Ilya Miskov Portfolio
+This project is a portfolio website for Ilya Miskov, a visual and product designer based in Estonia.
+
+Key Features:
+
+Navigation Bar: A clean menu with sections like "Work," "About," and "Let's chat."
+Introduction Section: A welcoming message and bold headline showcasing Ilya's multidisciplinary design expertise.
+Case Studies & Projects: Interactive case studies and project showcases with images and descriptions, emphasizing Ilya’s focus on digital experiences.
+Design Style: Minimalist, with clean typography, engaging icons, and a responsive layout for seamless interaction across devices.
+
+
+
+
+
